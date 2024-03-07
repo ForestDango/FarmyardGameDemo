@@ -1,0 +1,4936 @@
+fileFormatVersion: 2
+guid: bfd5930cb171ad448883f9eca56c9e08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1022458966149931118
+    second: farmerHats_0
+  - first:
+      213: -5589240093002248636
+    second: farmerHats_1
+  - first:
+      213: -443007046319162247
+    second: farmerHats_2
+  - first:
+      213: -2116304037104355946
+    second: farmerHats_3
+  - first:
+      213: -2014683331565002095
+    second: farmerHats_4
+  - first:
+      213: 3342489220051677060
+    second: farmerHats_5
+  - first:
+      213: 3839019679042535459
+    second: farmerHats_6
+  - first:
+      213: -6910803903170986764
+    second: farmerHats_7
+  - first:
+      213: 1128763229005151856
+    second: farmerHats_8
+  - first:
+      213: -6547187993198285140
+    second: farmerHats_9
+  - first:
+      213: -156619178177679747
+    second: farmerHats_10
+  - first:
+      213: -1601441455181650677
+    second: farmerHats_11
+  - first:
+      213: 2458555694142107203
+    second: farmerHats_12
+  - first:
+      213: -1382199444888660902
+    second: farmerHats_13
+  - first:
+      213: -2511752048866237017
+    second: farmerHats_14
+  - first:
+      213: 7205450377130497598
+    second: farmerHats_15
+  - first:
+      213: 9120610963174188580
+    second: farmerHats_16
+  - first:
+      213: 2569243041286199574
+    second: farmerHats_17
+  - first:
+      213: -3246547823983109144
+    second: farmerHats_18
+  - first:
+      213: 6036820251353444360
+    second: farmerHats_19
+  - first:
+      213: -2993173377836215647
+    second: farmerHats_20
+  - first:
+      213: 1966778764653375336
+    second: farmerHats_21
+  - first:
+      213: -2252393083540631500
+    second: farmerHats_22
+  - first:
+      213: 5189105615003692138
+    second: farmerHats_23
+  - first:
+      213: 2019641250328146572
+    second: farmerHats_24
+  - first:
+      213: 8537200741839535695
+    second: farmerHats_25
+  - first:
+      213: 8647037138472264912
+    second: farmerHats_26
+  - first:
+      213: -2162430438570259588
+    second: farmerHats_27
+  - first:
+      213: -4795875539601200689
+    second: farmerHats_28
+  - first:
+      213: -2397275107319069767
+    second: farmerHats_29
+  - first:
+      213: -5049406596122144555
+    second: farmerHats_30
+  - first:
+      213: 3840350572292644689
+    second: farmerHats_31
+  - first:
+      213: 4614856842775745368
+    second: farmerHats_32
+  - first:
+      213: 7117782736811629902
+    second: farmerHats_33
+  - first:
+      213: 3971770260773837648
+    second: farmerHats_34
+  - first:
+      213: -5827714115542082549
+    second: farmerHats_35
+  - first:
+      213: 1854606325120068756
+    second: farmerHats_36
+  - first:
+      213: 8563104773769669032
+    second: farmerHats_37
+  - first:
+      213: 1654975996570072442
+    second: farmerHats_38
+  - first:
+      213: -8642651978972463437
+    second: farmerHats_39
+  - first:
+      213: -8284721365898438883
+    second: farmerHats_40
+  - first:
+      213: -8480800214713894665
+    second: farmerHats_41
+  - first:
+      213: 7326058538834396374
+    second: farmerHats_42
+  - first:
+      213: 3740413726506623301
+    second: farmerHats_43
+  - first:
+      213: 1632859275430729725
+    second: farmerHats_44
+  - first:
+      213: -3685371211122448722
+    second: farmerHats_45
+  - first:
+      213: -2180008989807191268
+    second: farmerHats_46
+  - first:
+      213: -2601547545200053979
+    second: farmerHats_47
+  - first:
+      213: -5259155026478514227
+    second: farmerHats_48
+  - first:
+      213: -1592851014456805645
+    second: farmerHats_49
+  - first:
+      213: 922020653123135145
+    second: farmerHats_50
+  - first:
+      213: -2583434746840918937
+    second: farmerHats_51
+  - first:
+      213: -8430728064611605102
+    second: farmerHats_52
+  - first:
+      213: -4839167053019595567
+    second: farmerHats_53
+  - first:
+      213: 7531156137027643421
+    second: farmerHats_54
+  - first:
+      213: -6743768223354017065
+    second: farmerHats_55
+  - first:
+      213: -363148745730564386
+    second: farmerHats_56
+  - first:
+      213: 4756025183542029708
+    second: farmerHats_57
+  - first:
+      213: 7836824310679280268
+    second: farmerHats_58
+  - first:
+      213: 4869394842064663118
+    second: farmerHats_59
+  - first:
+      213: 7524993270254409067
+    second: farmerHats_60
+  - first:
+      213: 3801414291410628390
+    second: farmerHats_61
+  - first:
+      213: -8751461467200758642
+    second: farmerHats_62
+  - first:
+      213: 5299992541050957493
+    second: farmerHats_63
+  - first:
+      213: -2107128693149497900
+    second: farmerHats_64
+  - first:
+      213: -7402348441728130064
+    second: farmerHats_65
+  - first:
+      213: 2335226695095999584
+    second: farmerHats_66
+  - first:
+      213: 1615004083444416343
+    second: farmerHats_67
+  - first:
+      213: 6973538699229497732
+    second: farmerHats_68
+  - first:
+      213: 5811219177761095084
+    second: farmerHats_69
+  - first:
+      213: 7618840581025438194
+    second: farmerHats_70
+  - first:
+      213: 3538048374334919864
+    second: farmerHats_71
+  - first:
+      213: 103479224292661831
+    second: farmerHats_72
+  - first:
+      213: 5912141115499186287
+    second: farmerHats_73
+  - first:
+      213: 478115942265912794
+    second: farmerHats_74
+  - first:
+      213: 1005692486736373781
+    second: farmerHats_75
+  - first:
+      213: -1739763654535158719
+    second: farmerHats_76
+  - first:
+      213: -8594553647119346655
+    second: farmerHats_77
+  - first:
+      213: 6025216829372810140
+    second: farmerHats_78
+  - first:
+      213: 4627655087431391401
+    second: farmerHats_79
+  - first:
+      213: 4259437770332629387
+    second: farmerHats_80
+  - first:
+      213: 5747447050039828245
+    second: farmerHats_81
+  - first:
+      213: 1606031346083743741
+    second: farmerHats_82
+  - first:
+      213: -2212112640334630434
+    second: farmerHats_83
+  - first:
+      213: 5937158643454134405
+    second: farmerHats_84
+  - first:
+      213: 332448406206152207
+    second: farmerHats_85
+  - first:
+      213: -2155160029733385656
+    second: farmerHats_86
+  - first:
+      213: -733089038253534689
+    second: farmerHats_87
+  - first:
+      213: -2033510678616143476
+    second: farmerHats_88
+  - first:
+      213: -823662569385393540
+    second: farmerHats_89
+  - first:
+      213: 3374034443011239669
+    second: farmerHats_90
+  - first:
+      213: -7247147711424031155
+    second: farmerHats_91
+  - first:
+      213: -4948895432081576141
+    second: farmerHats_92
+  - first:
+      213: -1717890910735259413
+    second: farmerHats_93
+  - first:
+      213: -9210774231947502247
+    second: farmerHats_94
+  - first:
+      213: -2385266820742672696
+    second: farmerHats_95
+  - first:
+      213: -8348338703338302385
+    second: farmerHats_96
+  - first:
+      213: -5730617711771317419
+    second: farmerHats_97
+  - first:
+      213: -856041085898530780
+    second: farmerHats_98
+  - first:
+      213: 547340549241336974
+    second: farmerHats_99
+  - first:
+      213: 4206569606522562579
+    second: farmerHats_100
+  - first:
+      213: 3378639164705601433
+    second: farmerHats_101
+  - first:
+      213: -4949643017103131932
+    second: farmerHats_102
+  - first:
+      213: -2426077668587913894
+    second: farmerHats_103
+  - first:
+      213: 7538840939285776272
+    second: farmerHats_104
+  - first:
+      213: -5971449122054965500
+    second: farmerHats_105
+  - first:
+      213: -8938016988538543728
+    second: farmerHats_106
+  - first:
+      213: 8271318497098028165
+    second: farmerHats_107
+  - first:
+      213: -3144303163976154922
+    second: farmerHats_108
+  - first:
+      213: -7884078729156098181
+    second: farmerHats_109
+  - first:
+      213: -5650467469987897855
+    second: farmerHats_110
+  - first:
+      213: -7331719980433614062
+    second: farmerHats_111
+  - first:
+      213: -2180013004975418231
+    second: farmerHats_112
+  - first:
+      213: 1777850131077396949
+    second: farmerHats_113
+  - first:
+      213: -4069140711841922505
+    second: farmerHats_114
+  - first:
+      213: -1144427237844852088
+    second: farmerHats_115
+  - first:
+      213: 1054944275311019647
+    second: farmerHats_116
+  - first:
+      213: 4852969624068448791
+    second: farmerHats_117
+  - first:
+      213: 8678786456349771123
+    second: farmerHats_118
+  - first:
+      213: -4814769861030090427
+    second: farmerHats_119
+  - first:
+      213: -2103024294450176725
+    second: farmerHats_120
+  - first:
+      213: -5684538960493446966
+    second: farmerHats_121
+  - first:
+      213: 1228100350856137123
+    second: farmerHats_122
+  - first:
+      213: 980776639149571430
+    second: farmerHats_123
+  - first:
+      213: 2371596309084634452
+    second: farmerHats_124
+  - first:
+      213: 5191462684604969759
+    second: farmerHats_125
+  - first:
+      213: -4866896221659505983
+    second: farmerHats_126
+  - first:
+      213: -4126537675924093176
+    second: farmerHats_127
+  - first:
+      213: 621167000977206551
+    second: farmerHats_128
+  - first:
+      213: 5959631071196338996
+    second: farmerHats_129
+  - first:
+      213: -3363258046849279659
+    second: farmerHats_130
+  - first:
+      213: 6648837056119425400
+    second: farmerHats_131
+  - first:
+      213: 2686089548548749381
+    second: farmerHats_132
+  - first:
+      213: 4142205980581854772
+    second: farmerHats_133
+  - first:
+      213: -7753323291520749034
+    second: farmerHats_134
+  - first:
+      213: -5772875920364394455
+    second: farmerHats_135
+  - first:
+      213: -1107632170100065704
+    second: farmerHats_136
+  - first:
+      213: 7624251656233269634
+    second: farmerHats_137
+  - first:
+      213: 2371658421557085128
+    second: farmerHats_138
+  - first:
+      213: 6104654329334454520
+    second: farmerHats_139
+  - first:
+      213: 2938997525349760717
+    second: farmerHats_140
+  - first:
+      213: -2228927240195029033
+    second: farmerHats_141
+  - first:
+      213: -6548711987329753270
+    second: farmerHats_142
+  - first:
+      213: -5998036209581286041
+    second: farmerHats_143
+  - first:
+      213: 5244536835732987262
+    second: farmerHats_144
+  - first:
+      213: 147280606687202270
+    second: farmerHats_145
+  - first:
+      213: -5966790158471737235
+    second: farmerHats_146
+  - first:
+      213: 6055429160023917587
+    second: farmerHats_147
+  - first:
+      213: -8623868517069974643
+    second: farmerHats_148
+  - first:
+      213: -2473995457806943529
+    second: farmerHats_149
+  - first:
+      213: -4586003302502865154
+    second: farmerHats_150
+  - first:
+      213: -2084380650845455063
+    second: farmerHats_151
+  - first:
+      213: -4938215298406888242
+    second: farmerHats_152
+  - first:
+      213: 186344978588432469
+    second: farmerHats_153
+  - first:
+      213: 6589549328316986984
+    second: farmerHats_154
+  - first:
+      213: -7482169104339397195
+    second: farmerHats_155
+  - first:
+      213: 6216929454511012912
+    second: farmerHats_156
+  - first:
+      213: -8024700657089146266
+    second: farmerHats_157
+  - first:
+      213: 288251596325051156
+    second: farmerHats_158
+  - first:
+      213: 6818172849137078350
+    second: farmerHats_159
+  - first:
+      213: 8802681828288719365
+    second: farmerHats_160
+  - first:
+      213: -6164465044154533013
+    second: farmerHats_161
+  - first:
+      213: -1652693973487872202
+    second: farmerHats_162
+  - first:
+      213: 162293353740686379
+    second: farmerHats_163
+  - first:
+      213: -5260399778650095529
+    second: farmerHats_164
+  - first:
+      213: 4223182526750813878
+    second: farmerHats_165
+  - first:
+      213: 7066926335578475918
+    second: farmerHats_166
+  - first:
+      213: -5244229127662784415
+    second: farmerHats_167
+  - first:
+      213: -4760837507337226054
+    second: farmerHats_168
+  - first:
+      213: 590066629134160370
+    second: farmerHats_169
+  - first:
+      213: -8234845303843198611
+    second: farmerHats_170
+  - first:
+      213: 958884514192449452
+    second: farmerHats_171
+  - first:
+      213: -7625996559163282589
+    second: farmerHats_172
+  - first:
+      213: -7263854169867170956
+    second: farmerHats_173
+  - first:
+      213: 2553405404835090299
+    second: farmerHats_174
+  - first:
+      213: 3154674563070593348
+    second: farmerHats_175
+  - first:
+      213: -7002733912274048128
+    second: farmerHats_176
+  - first:
+      213: -7831357320390553439
+    second: farmerHats_177
+  - first:
+      213: -6637169211776081284
+    second: farmerHats_178
+  - first:
+      213: 2978211281447295051
+    second: farmerHats_179
+  - first:
+      213: -5783577457138527979
+    second: farmerHats_180
+  - first:
+      213: -408872710281267842
+    second: farmerHats_181
+  - first:
+      213: 1358949484958543134
+    second: farmerHats_182
+  - first:
+      213: -5317385998782016005
+    second: farmerHats_183
+  - first:
+      213: -1661297098617272594
+    second: farmerHats_184
+  - first:
+      213: 1023270124800846073
+    second: farmerHats_185
+  - first:
+      213: -4934109159381012701
+    second: farmerHats_186
+  - first:
+      213: -3287788560760635733
+    second: farmerHats_187
+  - first:
+      213: -6410044367119964760
+    second: farmerHats_188
+  - first:
+      213: -3416603519731791873
+    second: farmerHats_189
+  - first:
+      213: -6813668612698882930
+    second: farmerHats_190
+  - first:
+      213: 1668832194925152583
+    second: farmerHats_191
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmerHats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87462ac6da53cc7448c0897e0ba9dbb9
+      internalID: 1022458966149931118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c852d867127d442a510c38f546b2ee
+      internalID: -5589240093002248636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209dcbf28b866c4d9083c1f886febc5
+      internalID: -443007046319162247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49015122618b346a0ea712115d6dc4
+      internalID: -2116304037104355946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a6ca41cfef2d449816a3b9a5699ca
+      internalID: -2014683331565002095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf2f4382b5ee14e9ba582dba239bae
+      internalID: 3342489220051677060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fab01ff11b6604bbca39dc9dd57e22
+      internalID: 3839019679042535459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba54c4331ff9a469bd117dbac335a4
+      internalID: -6910803903170986764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b7157324342d45b8ac9ffe5cafbd9
+      internalID: 1128763229005151856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ced410cbe90eb418bfa07c813892ce
+      internalID: -6547187993198285140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6a2616fca2a646bf72a27c171ccb4
+      internalID: -156619178177679747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 300
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349131945f16fc4f937ec188896ebd4
+      internalID: -1601441455181650677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc01f8113581bbc408ea0f6e6b6169cd
+      internalID: 2458555694142107203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee38a66f70d7e489955f6d5b4def15
+      internalID: -1382199444888660902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90cf12a75c15040a559925d762ee8b
+      internalID: -2511752048866237017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6744061b9ecd8c941b8a6f4fff40407e
+      internalID: 7205450377130497598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e4c462244811b41a74dfdd167ee861
+      internalID: 9120610963174188580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29c4298f37b33142b848eeba1527f21
+      internalID: 2569243041286199574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69df1a48bd829f4c8ba785d7a2c3491
+      internalID: -3246547823983109144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be99f84b64ddc254287afd3e4c3d644a
+      internalID: 6036820251353444360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2480c42e9fb17044b96df74d52d2ddf8
+      internalID: -2993173377836215647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdcfd3d517576149a599b27cb145496
+      internalID: 1966778764653375336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ebb2dae21c1142abf91d661cd559b
+      internalID: -2252393083540631500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 280
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa77ce6192e76149872bcdef90bee99
+      internalID: 5189105615003692138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33286b2bfe148c4885d987fe2d58d03
+      internalID: 2019641250328146572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd7aa702c2b9040b83a45d806e378f
+      internalID: 8537200741839535695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b43ce7b2900b40b4e492220696d57
+      internalID: 8647037138472264912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c92369adf60834c9e091fe47757aff
+      internalID: -2162430438570259588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371923c1a48a9a646a34de921f5e6f5c
+      internalID: -4795875539601200689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733c9f8c4bd8014ba628a2c8e6a50a9
+      internalID: -2397275107319069767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319ef9b97ac0f44ea6b1a3233c37feb
+      internalID: -5049406596122144555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b0edeb4fd37f4b9190de9c24fade9
+      internalID: 3840350572292644689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65cf88102667ea41baaace3f9c023f0
+      internalID: 4614856842775745368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2679b6163498594ba7c808ddbf0ce51
+      internalID: 7117782736811629902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7adcc3c6ad6b654d90aad108b09fb4e
+      internalID: 3971770260773837648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 260
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31456694a8dc1142bdd49fafd332921
+      internalID: -5827714115542082549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32417bfeb8646f1459228bc757b4f992
+      internalID: 1854606325120068756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03c6ae8c764dc418f672613ffc6a9f
+      internalID: 8563104773769669032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289fc9cfe95ed0409f3d239be358bf1
+      internalID: 1654975996570072442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8c81dfd35df7c468b4a54be8b0a766
+      internalID: -8642651978972463437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55dbddab4efc8478873b8267e7084c
+      internalID: -8284721365898438883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066bd1469d5b0448a8bffa97bc702a4
+      internalID: -8480800214713894665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d1df2f13ce6b4a96bece20907867b
+      internalID: 7326058538834396374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db713a897ee6f5a4d808276198febcd7
+      internalID: 3740413726506623301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5954a467f8d69bc49a976e92c9b3acb3
+      internalID: 1632859275430729725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de420908b64084ca2bb4405adb10bb
+      internalID: -3685371211122448722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcea5e5aa36e4145ab49d3ed16f47b1
+      internalID: -2180008989807191268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 240
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6affa1bef89d448a994cb69002207
+      internalID: -2601547545200053979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2714f105195b4e97da3abeeffd9f4
+      internalID: -5259155026478514227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5800078474d11469ed94f33708b169
+      internalID: -1592851014456805645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b93f7138b75945acbad92862ec6b5
+      internalID: 922020653123135145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c998c040f463c947b6c310631025c81
+      internalID: -2583434746840918937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212448cf8da8fb04da15ce397ce9e6e0
+      internalID: -8430728064611605102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c01fa23c1fa784d925aa941c0501da
+      internalID: -4839167053019595567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b589c1056930647a13f300592b618a
+      internalID: 7531156137027643421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fc00ff280a57140934e37225ca65f2
+      internalID: -6743768223354017065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd61632f706a2d843a8099a5bf4615ea
+      internalID: -363148745730564386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9f1db76e80e043ae74f9ddc6dd1ef
+      internalID: 4756025183542029708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b9403aef540024497d2e2c09bfc3bd
+      internalID: 7836824310679280268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fefe6bcdd1187449bbcbbd4053c35d2
+      internalID: 4869394842064663118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b814c98c448fa264bb17fdcac5fa6a6e
+      internalID: 7524993270254409067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f089f53927bd8c4297350bc4142ee67
+      internalID: 3801414291410628390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ab6612f1a0534982942d27849022e
+      internalID: -8751461467200758642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969baf0c00e377a48a02c485d2460598
+      internalID: 5299992541050957493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c64ef4c858dad418e26df74de54a60
+      internalID: -2107128693149497900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b02e618a1939349848141dc6d504c4
+      internalID: -7402348441728130064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec91e333ef7f3478f840c14def5ea3
+      internalID: 2335226695095999584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90425ff21b69b4fbbe1d6dff422480
+      internalID: 1615004083444416343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15821d1d90321334da55db7ab1cd8e0a
+      internalID: 6973538699229497732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77e6eebca95af44f90ca867bdd9e874
+      internalID: 5811219177761095084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc836de61274d46a3082556382c89e
+      internalID: 7618840581025438194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 200
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806fc2201a61284ea22c66b30fe7082
+      internalID: 3538048374334919864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f437d49e67337488c61766bbe8f7f4
+      internalID: 103479224292661831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3644457dff24ff448143c34f4c71769
+      internalID: 5912141115499186287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba76d844983d234287f5faf572553a7
+      internalID: 478115942265912794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8589cfefbb302d40b5d4f70118f3af0
+      internalID: 1005692486736373781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838b39322519e74ab1da081bc05e8bd
+      internalID: -1739763654535158719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f217e8ecee1da4fa1bab0ae630d724
+      internalID: -8594553647119346655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206280c16feb3e14c82b79e79106d179
+      internalID: 6025216829372810140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_79
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f30042f3ab0b04a99713b31bd84fc8
+      internalID: 4627655087431391401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb63d81b086f848805d9114eb39ff6
+      internalID: 4259437770332629387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb2f33db996ef44830f440797eac2b
+      internalID: 5747447050039828245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63001079ec1d874897f18134acdd417
+      internalID: 1606031346083743741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 180
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac229c454bd8347b2ca90c4c7dbed0
+      internalID: -2212112640334630434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db1403e82cded47937af59e7a86bec
+      internalID: 5937158643454134405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b837fd41b69c458b1429305f4a615
+      internalID: 332448406206152207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc34b6a1178154c439eed9a8bdc10764
+      internalID: -2155160029733385656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61408c8093eb8e4ab67d45f4d73c004
+      internalID: -733089038253534689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376b72cc480fd545bd499f02de8ffd9
+      internalID: -2033510678616143476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb01bfe3834bdb4baa29bcb468315eb
+      internalID: -823662569385393540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7310243a897c95348924c4d3e9c0e18a
+      internalID: 3374034443011239669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f530895b6af580439afff608705ac1a
+      internalID: -7247147711424031155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c511411c289964491d71d5e3a38084
+      internalID: -4948895432081576141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1713734861b8bf49ac258f43385c802
+      internalID: -1717890910735259413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a46524b34cfcb468c9d9ac3be558d2
+      internalID: -9210774231947502247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_95
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 160
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774273003a4cec14f8c034df35c4deb4
+      internalID: -2385266820742672696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b9c36b449d77e43a3518218cfeadcd
+      internalID: -8348338703338302385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_97
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919c65d8349e5b4fb827044caf92d2f
+      internalID: -5730617711771317419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e24456ff2d6747a9c57bb5aa43212
+      internalID: -856041085898530780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_99
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b380bcbc8afb549a35b660fa66205c
+      internalID: 547340549241336974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673eb02a26eab144b4715d027e8e3bd
+      internalID: 4206569606522562579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cfbc0fb4f65e74d86857dd000e5176
+      internalID: 3378639164705601433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb802fcfc8350554da197e0428c6a2b8
+      internalID: -4949643017103131932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_103
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eb62922439e1c499e589ffe8025d39
+      internalID: -2426077668587913894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de3c9aedcfdbe54499667559637731d
+      internalID: 7538840939285776272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85239a42eac3f41ad869298b9c569f
+      internalID: -5971449122054965500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e9fbd84a5f1a45806e91d75534f4f
+      internalID: -8938016988538543728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_107
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 140
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4b4c1bb95e374cb17fcf86e344289
+      internalID: 8271318497098028165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed0b376e1f9e24e8fb16bd0d5000b3
+      internalID: -3144303163976154922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f07feb7a8b3d8646ac6dff6ca5a6e93
+      internalID: -7884078729156098181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_110
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fbef84a7a3c3a4bb17a8c0a585dc3a
+      internalID: -5650467469987897855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_111
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01195c3d9f0624194be63ddf5555d0
+      internalID: -7331719980433614062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170ebd56a120044dbfc5d0969cb1553
+      internalID: -2180013004975418231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109172176b58b744aaca2677604011c
+      internalID: 1777850131077396949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_114
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95053419b844dce4e918008f10759ec4
+      internalID: -4069140711841922505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_115
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb29d5133a579c44ae0fc680229e0a7
+      internalID: -1144427237844852088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfa804871fba464b8e9614c8f2ab2c3
+      internalID: 1054944275311019647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_117
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e16b4b5ec7439409e77f7204a9a9d5
+      internalID: 4852969624068448791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c378af3af4a04fb5c8bf645e80b28
+      internalID: 8678786456349771123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_119
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e5e0d7e1c17f4088a114572fe9252
+      internalID: -4814769861030090427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185d69487574064bbd4268868a55e14
+      internalID: -2103024294450176725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef9c9903b11ce478b37a9c564c87a1
+      internalID: -5684538960493446966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c94f87f69b12147a14e47b7b8e8dca
+      internalID: 1228100350856137123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_123
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750289715a1e0743b97adb6ffc2d2e5
+      internalID: 980776639149571430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d25719b2ccb547b671d59ff18338a
+      internalID: 2371596309084634452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_125
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc76a610fe7154885355c5148d707f
+      internalID: 5191462684604969759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c823834d61ded4cac5e5bf1784ee4b
+      internalID: -4866896221659505983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_127
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b405d8aacb73954abfb99f822c4fc83
+      internalID: -4126537675924093176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112519a24d0fb314fb0534108a32c18d
+      internalID: 621167000977206551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6d7c98512e72448c4d0d4062508cc
+      internalID: 5959631071196338996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ee294bba8218743b58d585afd967e2
+      internalID: -3363258046849279659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_131
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d54585a3f17449b22b77c0f386de5
+      internalID: 6648837056119425400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf22917e8f2b4a14c8e7e623e5171e59
+      internalID: 2686089548548749381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb9321b9aeea640916c20493463b0e
+      internalID: 4142205980581854772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_134
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d37a7029edd6b944b136bcdf1a913eb
+      internalID: -7753323291520749034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_135
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04de6330e491b74ba5aab83ff283f42
+      internalID: -5772875920364394455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7479b191e0419ee4582f1312403cb4f6
+      internalID: -1107632170100065704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a04401ed2b4ce4aba84230320cf182
+      internalID: 7624251656233269634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_138
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e59db30f90c842b4e3c633fae0f22
+      internalID: 2371658421557085128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_139
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128bfc7ccb3f3f4f8cc67769226a9c7
+      internalID: 6104654329334454520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877232413d3797342ac9abe0c47757b3
+      internalID: 2938997525349760717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_141
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765068e21acdab849aad1d74d86a723a
+      internalID: -2228927240195029033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b367427a0e16849989b8ba9ff2e642
+      internalID: -6548711987329753270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_143
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 80
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ada2e5b3eb64c4ba11ba19bd7ce733
+      internalID: -5998036209581286041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffcf0dd16c13444796f0463315965e0
+      internalID: 5244536835732987262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_145
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09cecadfcfb7ef4a84be70158dc85de
+      internalID: 147280606687202270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c04458f67ba34eac3540aca34ca62
+      internalID: -5966790158471737235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_147
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc13a4ca58b42e409e67b3650366ffa
+      internalID: 6055429160023917587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752452fd3ad612541b3557d57d114669
+      internalID: -8623868517069974643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_149
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839e82d0c97a8045aa2c815a2bac97b
+      internalID: -2473995457806943529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_150
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29ee62275290443bf45f023e45bf48
+      internalID: -4586003302502865154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_151
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae73fe7456e50041bcc685f50666568
+      internalID: -2084380650845455063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda7af97d1b38e45bf86a13b6c44f43
+      internalID: -4938215298406888242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_153
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b883e59fdca0428c22e86a0e750d5
+      internalID: 186344978588432469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9609dac52442b4eb86db3d4510a604
+      internalID: 6589549328316986984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_155
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 60
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f0c4672d32d347bdf579412106cde
+      internalID: -7482169104339397195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f1271dde538347888c304db5dcb67
+      internalID: 6216929454511012912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_157
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ccf0c241902ae4c9d4c5a7749a11f2
+      internalID: -8024700657089146266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba4805f739f884d9bfd16d87b58e88
+      internalID: 288251596325051156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_159
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41f46ac1e36db429e9f632ed8770d4
+      internalID: 6818172849137078350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d0f9d6fb83114292a5f4e6e2aaadd
+      internalID: 8802681828288719365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_161
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c76aa569a45347b27efcdd0c80a39
+      internalID: -6164465044154533013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_162
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e01973196dea41a1e093e1f422a32
+      internalID: -1652693973487872202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_163
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c05cb2ab51ee4580c123bf4716abc
+      internalID: 162293353740686379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cadde3026fc4544b8259554930043dd
+      internalID: -5260399778650095529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_165
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db637dd75fd4baf49906d9b3e922c412
+      internalID: 4223182526750813878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_166
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd2e58526e23043898f42c5572c9fa
+      internalID: 7066926335578475918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_167
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7c771a9da81b41adb7394463ba444
+      internalID: -5244229127662784415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb98013ea14424887f952e5a1e8771
+      internalID: -4760837507337226054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_169
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56158f38774c99438708b21777186ff
+      internalID: 590066629134160370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_170
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9270a283ba7576040bcc27b3fad8c35a
+      internalID: -8234845303843198611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_171
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a547c131558064ab6f03abb50eaccd
+      internalID: 958884514192449452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e820d28d0a2b46b9b353c087318c8
+      internalID: -7625996559163282589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_173
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d581b6065e2d74c89cf24a769f945b
+      internalID: -7263854169867170956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_174
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad539b8eff4264d9d8268afaa6b772
+      internalID: 2553405404835090299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_175
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815e534854260f4a8086e359415659c
+      internalID: 3154674563070593348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24b509783957448b662b12b38d8247
+      internalID: -7002733912274048128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_177
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5916135ef903247b4ec25edb310a3b
+      internalID: -7831357320390553439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_178
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce808b65cbe834ca13953cf61d2c19
+      internalID: -6637169211776081284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_179
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 20
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bd8ec88d227c458ba3f5f654e36c8
+      internalID: 2978211281447295051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036b011952f444499d5cfa45f71130f
+      internalID: -5783577457138527979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ce3c58aa60f584f930aeb22abf886a
+      internalID: -408872710281267842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_182
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d35e0386e70c449d2a7bd3000f65d
+      internalID: 1358949484958543134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_183
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7508ce8f6b9de9048a6b97131188ad9b
+      internalID: -5317385998782016005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8afb3654008f1e499e7e8209103b8db
+      internalID: -1661297098617272594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_185
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0856ecdff4d1243876a4f173332717
+      internalID: 1023270124800846073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_186
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daac5ea2795c7b4eb9be67a1bf24f4e
+      internalID: -4934109159381012701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_187
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0502b76042e4ef46a293536e7d4a06a
+      internalID: -3287788560760635733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa194de7ff561843b70d1e89d0c6dfa
+      internalID: -6410044367119964760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_189
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8886b5a46146a64eaeabe176fcb1047
+      internalID: -3416603519731791873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_190
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab9f8bcac320f419668f1440a33472
+      internalID: -6813668612698882930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerHats_191
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed947e2302b5044cab6810dbf4c0dc1
+      internalID: 1668832194925152583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b9e73b77ed38d3e42a4590c91c491b03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      farmerHats_0: 1022458966149931118
+      farmerHats_1: -5589240093002248636
+      farmerHats_10: -156619178177679747
+      farmerHats_100: 4206569606522562579
+      farmerHats_101: 3378639164705601433
+      farmerHats_102: -4949643017103131932
+      farmerHats_103: -2426077668587913894
+      farmerHats_104: 7538840939285776272
+      farmerHats_105: -5971449122054965500
+      farmerHats_106: -8938016988538543728
+      farmerHats_107: 8271318497098028165
+      farmerHats_108: -3144303163976154922
+      farmerHats_109: -7884078729156098181
+      farmerHats_11: -1601441455181650677
+      farmerHats_110: -5650467469987897855
+      farmerHats_111: -7331719980433614062
+      farmerHats_112: -2180013004975418231
+      farmerHats_113: 1777850131077396949
+      farmerHats_114: -4069140711841922505
+      farmerHats_115: -1144427237844852088
+      farmerHats_116: 1054944275311019647
+      farmerHats_117: 4852969624068448791
+      farmerHats_118: 8678786456349771123
+      farmerHats_119: -4814769861030090427
+      farmerHats_12: 2458555694142107203
+      farmerHats_120: -2103024294450176725
+      farmerHats_121: -5684538960493446966
+      farmerHats_122: 1228100350856137123
+      farmerHats_123: 980776639149571430
+      farmerHats_124: 2371596309084634452
+      farmerHats_125: 5191462684604969759
+      farmerHats_126: -4866896221659505983
+      farmerHats_127: -4126537675924093176
+      farmerHats_128: 621167000977206551
+      farmerHats_129: 5959631071196338996
+      farmerHats_13: -1382199444888660902
+      farmerHats_130: -3363258046849279659
+      farmerHats_131: 6648837056119425400
+      farmerHats_132: 2686089548548749381
+      farmerHats_133: 4142205980581854772
+      farmerHats_134: -7753323291520749034
+      farmerHats_135: -5772875920364394455
+      farmerHats_136: -1107632170100065704
+      farmerHats_137: 7624251656233269634
+      farmerHats_138: 2371658421557085128
+      farmerHats_139: 6104654329334454520
+      farmerHats_14: -2511752048866237017
+      farmerHats_140: 2938997525349760717
+      farmerHats_141: -2228927240195029033
+      farmerHats_142: -6548711987329753270
+      farmerHats_143: -5998036209581286041
+      farmerHats_144: 5244536835732987262
+      farmerHats_145: 147280606687202270
+      farmerHats_146: -5966790158471737235
+      farmerHats_147: 6055429160023917587
+      farmerHats_148: -8623868517069974643
+      farmerHats_149: -2473995457806943529
+      farmerHats_15: 7205450377130497598
+      farmerHats_150: -4586003302502865154
+      farmerHats_151: -2084380650845455063
+      farmerHats_152: -4938215298406888242
+      farmerHats_153: 186344978588432469
+      farmerHats_154: 6589549328316986984
+      farmerHats_155: -7482169104339397195
+      farmerHats_156: 6216929454511012912
+      farmerHats_157: -8024700657089146266
+      farmerHats_158: 288251596325051156
+      farmerHats_159: 6818172849137078350
+      farmerHats_16: 9120610963174188580
+      farmerHats_160: 8802681828288719365
+      farmerHats_161: -6164465044154533013
+      farmerHats_162: -1652693973487872202
+      farmerHats_163: 162293353740686379
+      farmerHats_164: -5260399778650095529
+      farmerHats_165: 4223182526750813878
+      farmerHats_166: 7066926335578475918
+      farmerHats_167: -5244229127662784415
+      farmerHats_168: -4760837507337226054
+      farmerHats_169: 590066629134160370
+      farmerHats_17: 2569243041286199574
+      farmerHats_170: -8234845303843198611
+      farmerHats_171: 958884514192449452
+      farmerHats_172: -7625996559163282589
+      farmerHats_173: -7263854169867170956
+      farmerHats_174: 2553405404835090299
+      farmerHats_175: 3154674563070593348
+      farmerHats_176: -7002733912274048128
+      farmerHats_177: -7831357320390553439
+      farmerHats_178: -6637169211776081284
+      farmerHats_179: 2978211281447295051
+      farmerHats_18: -3246547823983109144
+      farmerHats_180: -5783577457138527979
+      farmerHats_181: -408872710281267842
+      farmerHats_182: 1358949484958543134
+      farmerHats_183: -5317385998782016005
+      farmerHats_184: -1661297098617272594
+      farmerHats_185: 1023270124800846073
+      farmerHats_186: -4934109159381012701
+      farmerHats_187: -3287788560760635733
+      farmerHats_188: -6410044367119964760
+      farmerHats_189: -3416603519731791873
+      farmerHats_19: 6036820251353444360
+      farmerHats_190: -6813668612698882930
+      farmerHats_191: 1668832194925152583
+      farmerHats_2: -443007046319162247
+      farmerHats_20: -2993173377836215647
+      farmerHats_21: 1966778764653375336
+      farmerHats_22: -2252393083540631500
+      farmerHats_23: 5189105615003692138
+      farmerHats_24: 2019641250328146572
+      farmerHats_25: 8537200741839535695
+      farmerHats_26: 8647037138472264912
+      farmerHats_27: -2162430438570259588
+      farmerHats_28: -4795875539601200689
+      farmerHats_29: -2397275107319069767
+      farmerHats_3: -2116304037104355946
+      farmerHats_30: -5049406596122144555
+      farmerHats_31: 3840350572292644689
+      farmerHats_32: 4614856842775745368
+      farmerHats_33: 7117782736811629902
+      farmerHats_34: 3971770260773837648
+      farmerHats_35: -5827714115542082549
+      farmerHats_36: 1854606325120068756
+      farmerHats_37: 8563104773769669032
+      farmerHats_38: 1654975996570072442
+      farmerHats_39: -8642651978972463437
+      farmerHats_4: -2014683331565002095
+      farmerHats_40: -8284721365898438883
+      farmerHats_41: -8480800214713894665
+      farmerHats_42: 7326058538834396374
+      farmerHats_43: 3740413726506623301
+      farmerHats_44: 1632859275430729725
+      farmerHats_45: -3685371211122448722
+      farmerHats_46: -2180008989807191268
+      farmerHats_47: -2601547545200053979
+      farmerHats_48: -5259155026478514227
+      farmerHats_49: -1592851014456805645
+      farmerHats_5: 3342489220051677060
+      farmerHats_50: 922020653123135145
+      farmerHats_51: -2583434746840918937
+      farmerHats_52: -8430728064611605102
+      farmerHats_53: -4839167053019595567
+      farmerHats_54: 7531156137027643421
+      farmerHats_55: -6743768223354017065
+      farmerHats_56: -363148745730564386
+      farmerHats_57: 4756025183542029708
+      farmerHats_58: 7836824310679280268
+      farmerHats_59: 4869394842064663118
+      farmerHats_6: 3839019679042535459
+      farmerHats_60: 7524993270254409067
+      farmerHats_61: 3801414291410628390
+      farmerHats_62: -8751461467200758642
+      farmerHats_63: 5299992541050957493
+      farmerHats_64: -2107128693149497900
+      farmerHats_65: -7402348441728130064
+      farmerHats_66: 2335226695095999584
+      farmerHats_67: 1615004083444416343
+      farmerHats_68: 6973538699229497732
+      farmerHats_69: 5811219177761095084
+      farmerHats_7: -6910803903170986764
+      farmerHats_70: 7618840581025438194
+      farmerHats_71: 3538048374334919864
+      farmerHats_72: 103479224292661831
+      farmerHats_73: 5912141115499186287
+      farmerHats_74: 478115942265912794
+      farmerHats_75: 1005692486736373781
+      farmerHats_76: -1739763654535158719
+      farmerHats_77: -8594553647119346655
+      farmerHats_78: 6025216829372810140
+      farmerHats_79: 4627655087431391401
+      farmerHats_8: 1128763229005151856
+      farmerHats_80: 4259437770332629387
+      farmerHats_81: 5747447050039828245
+      farmerHats_82: 1606031346083743741
+      farmerHats_83: -2212112640334630434
+      farmerHats_84: 5937158643454134405
+      farmerHats_85: 332448406206152207
+      farmerHats_86: -2155160029733385656
+      farmerHats_87: -733089038253534689
+      farmerHats_88: -2033510678616143476
+      farmerHats_89: -823662569385393540
+      farmerHats_9: -6547187993198285140
+      farmerHats_90: 3374034443011239669
+      farmerHats_91: -7247147711424031155
+      farmerHats_92: -4948895432081576141
+      farmerHats_93: -1717890910735259413
+      farmerHats_94: -9210774231947502247
+      farmerHats_95: -2385266820742672696
+      farmerHats_96: -8348338703338302385
+      farmerHats_97: -5730617711771317419
+      farmerHats_98: -856041085898530780
+      farmerHats_99: 547340549241336974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

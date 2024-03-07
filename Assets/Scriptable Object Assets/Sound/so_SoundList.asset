@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ecb74d7cb9c28419b4b10b231d8dad, type: 3}
+  m_Name: so_SoundList
+  m_EditorClassIdentifier: 
+  soundDetails:
+  - soundName: 10
+    soundClip: {fileID: 8300000, guid: 093845d14eed7654a8dc2b6b0ed14dfb, type: 3}
+    soundDescription: Footstep Soft
+    soundPitchRandomVariationMin: 0.9
+    soundPitchRandomVariationMax: 1.1
+    soundVolume: 0.2
+  - soundName: 20
+    soundClip: {fileID: 8300000, guid: 093845d14eed7654a8dc2b6b0ed14dfb, type: 3}
+    soundDescription: Footstep Hard
+    soundPitchRandomVariationMin: 0.9
+    soundPitchRandomVariationMax: 1.1
+    soundVolume: 0.2
+  - soundName: 30
+    soundClip: {fileID: 8300000, guid: 936ee70bd6b31ba40950a23b2c095ab8, type: 3}
+    soundDescription: Effect Axe
+    soundPitchRandomVariationMin: 0.7
+    soundPitchRandomVariationMax: 0.8
+    soundVolume: 0.2
+  - soundName: 40
+    soundClip: {fileID: 8300000, guid: 936ee70bd6b31ba40950a23b2c095ab8, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.2
+  - soundName: 50
+    soundClip: {fileID: 8300000, guid: 9e4779bab3c6d7946b7af0eac39ca456, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.7
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.2
+  - soundName: 60
+    soundClip: {fileID: 8300000, guid: bde45eab5733e6542a8d483df7fe29f8, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.6
+    soundPitchRandomVariationMax: 0.8
+    soundVolume: 0.124
+  - soundName: 70
+    soundClip: {fileID: 8300000, guid: b94be4986d11cd4459632754ca6bdc67, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1.2
+    soundVolume: 0.2
+  - soundName: 80
+    soundClip: {fileID: 8300000, guid: d454eb6adaec49549ba52c089120a01d, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1.2
+    soundVolume: 0.2
+  - soundName: 90
+    soundClip: {fileID: 8300000, guid: 0632bc5535e45c542a8c788eba7f4c26, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1.2
+    soundVolume: 0.2
+  - soundName: 100
+    soundClip: {fileID: 8300000, guid: a1245e3e236386448a3b1d2caf1730a7, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.9
+    soundPitchRandomVariationMax: 1.1
+    soundVolume: 0.344
+  - soundName: 110
+    soundClip: {fileID: 8300000, guid: c9ce207fa6e383946a84cf6467e9b568, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 1.225
+    soundPitchRandomVariationMax: 1.5
+    soundVolume: 0.1
+  - soundName: 120
+    soundClip: {fileID: 8300000, guid: 04df0319290c0e143913096aa330c9e2, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.2
+  - soundName: 130
+    soundClip: {fileID: 8300000, guid: ad87ccdd6a6f9084c9a0dbd41df442f6, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.3
+  - soundName: 140
+    soundClip: {fileID: 8300000, guid: e23732cc1a3c7f54d9eb6d08e60772ca, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.188
+  - soundName: 150
+    soundClip: {fileID: 8300000, guid: 5d94ded4f36496d45bf497d00fa298a9, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 0.8
+    soundPitchRandomVariationMax: 1.2
+    soundVolume: 0.3
+  - soundName: 1000
+    soundClip: {fileID: 8300000, guid: f623b7978080a7c4aa811c7bdb13cc7f, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 1
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.749
+  - soundName: 1010
+    soundClip: {fileID: 8300000, guid: f244993237b6b004cb36d373cc490e54, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 1
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.749
+  - soundName: 1020
+    soundClip: {fileID: 8300000, guid: 597fa2fa4634b8048ab616a4b482e405, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 1
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.75
+  - soundName: 2000
+    soundClip: {fileID: 8300000, guid: 2b541905ca3cd9347a56ffc11193c35a, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 1
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.55
+  - soundName: 2010
+    soundClip: {fileID: 8300000, guid: eaaabf775115a9642a03f6fcf4dda6a7, type: 3}
+    soundDescription: Effect Pickaxe
+    soundPitchRandomVariationMin: 1
+    soundPitchRandomVariationMax: 1
+    soundVolume: 0.55

@@ -1,0 +1,657 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f2964bd321d61140a5e16398a174079, type: 3}
+  m_Name: so_Itemlist
+  m_EditorClassIdentifier: 
+  itemDetails:
+  - itemCode: 10000
+    itemType: 0
+    itemDescription: Canyon On Acron
+    itemSprite: {fileID: 21300000, guid: e6bf030888c518f458652ddc641b42cd, type: 3}
+    itemLongDescription: One day the acron will grow up
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10001
+    itemType: 1
+    itemDescription: pumpkin
+    itemSprite: {fileID: 21300000, guid: f6d36f4ea1957e842b596884706903a2, type: 3}
+    itemLongDescription: a large,delicious pumpkin
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10002
+    itemType: 1
+    itemDescription: Corn
+    itemSprite: {fileID: 21300000, guid: 832337b49fb3f1b488aa245c160249ee, type: 3}
+    itemLongDescription: Very Sweet
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10003
+    itemType: 2
+    itemDescription: A Basic Watering Can
+    itemSprite: {fileID: -6336281009641986356, guid: 9b1c8c63f3b192440aff2eef468dc827,
+      type: 3}
+    itemLongDescription: water your flowers
+    itemUseGridRadius: 1
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10004
+    itemType: 3
+    itemDescription: A Basic Hoe
+    itemSprite: {fileID: 8229741558245047171, guid: 9b1c8c63f3b192440aff2eef468dc827,
+      type: 3}
+    itemLongDescription: Hoeyour farm
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10005
+    itemType: 4
+    itemDescription: A Basic Axe
+    itemSprite: {fileID: 3424674198401663528, guid: 9b1c8c63f3b192440aff2eef468dc827,
+      type: 3}
+    itemLongDescription: Chop the trees
+    itemUseGridRadius: 1
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10006
+    itemType: 0
+    itemDescription: ParsnipSeeds
+    itemSprite: {fileID: 21300000, guid: 580a53773ba6a544aa2520d709ffab70, type: 3}
+    itemLongDescription: ParshinpSeeds take 5 days to grow
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10007
+    itemType: 1
+    itemDescription: Parsnip
+    itemSprite: {fileID: 21300000, guid: 2a8e69a1a9469254aa70de62abc5a1ca, type: 3}
+    itemLongDescription: parsnip are fulls
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10008
+    itemType: 1
+    itemDescription: Wood
+    itemSprite: {fileID: 21300000, guid: 04543d3d054ae5648804dcc7f85ff815, type: 3}
+    itemLongDescription: just a wood
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10009
+    itemType: 0
+    itemDescription: Blue Speunce Pine Cone
+    itemSprite: {fileID: 21300000, guid: edfb7a9018528d84db451d884b5d1a3f, type: 3}
+    itemLongDescription: ths pinecont of speunce
+    itemUseGridRadius: 1
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10010
+    itemType: 0
+    itemDescription: Canyon Oak Tree trunk
+    itemSprite: {fileID: -1611693019923910846, guid: 4ac036ab8951d30489319c70b7227fc1,
+      type: 3}
+    itemLongDescription: the trunk of canyon oak
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10011
+    itemType: 0
+    itemDescription: Blue Speunce Pine Trunk
+    itemSprite: {fileID: 4303850705525679241, guid: eba779ac471c95a479ac72ed7918050e,
+      type: 3}
+    itemLongDescription: the trunk of Blue Speunce
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10012
+    itemType: 7
+    itemDescription: Wicker Basket
+    itemSprite: {fileID: 3926773104356650639, guid: 9b1c8c63f3b192440aff2eef468dc827,
+      type: 3}
+    itemLongDescription: a bakset store your things
+    itemUseGridRadius: 1
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10013
+    itemType: 5
+    itemDescription: A basic PickAxe
+    itemSprite: {fileID: 9128312034530065894, guid: 9b1c8c63f3b192440aff2eef468dc827,
+      type: 3}
+    itemLongDescription: A Pickaxe breaks the breakabl rocks
+    itemUseGridRadius: 1
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10014
+    itemType: 0
+    itemDescription: Stone1Seed
+    itemSprite: {fileID: 21300000, guid: b43f5369c09d18a41982d4abe7fd6a03, type: 3}
+    itemLongDescription: 
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10015
+    itemType: 1
+    itemDescription: Stone
+    itemSprite: {fileID: 21300000, guid: 6e57b3b5d6c4527478c2348d1ca401c3, type: 3}
+    itemLongDescription: 'A Stone can be partical '
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10016
+    itemType: 0
+    itemDescription: Stone2Seed
+    itemSprite: {fileID: 21300000, guid: de82c54fe8c929345b0232a2c8cde248, type: 3}
+    itemLongDescription: 
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10017
+    itemType: 6
+    itemDescription: A basic reping tool
+    itemSprite: {fileID: -586144294956668299, guid: 9b1c8c63f3b192440aff2eef468dc827,
+      type: 3}
+    itemLongDescription: Reping the messy grass
+    itemUseGridRadius: 2
+    itemUseRadius: 1.5
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10018
+    itemType: 8
+    itemDescription: Grass1
+    itemSprite: {fileID: 21300000, guid: 89a9f0f234eec2a49b84ea16221824d8, type: 3}
+    itemLongDescription: use for look
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10019
+    itemType: 8
+    itemDescription: Grass2
+    itemSprite: {fileID: 21300000, guid: 850f092a5d8e0b04b90ef617374875a9, type: 3}
+    itemLongDescription: use for look
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10020
+    itemType: 1
+    itemDescription: Weed
+    itemSprite: {fileID: 21300000, guid: a35a496f0a381a840959ca3e6944b348, type: 3}
+    itemLongDescription: Weed
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10021
+    itemType: 8
+    itemDescription: Prickly Cactus
+    itemSprite: {fileID: 21300000, guid: 62e5a690669b5d94c8445f6ad9355d75, type: 3}
+    itemLongDescription: Prickly Cactus
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10022
+    itemType: 9
+    itemDescription: ' Chair Can be Place to Indoor'
+    itemSprite: {fileID: 21300000, guid: 1d0a537e0e2a68441b12132219572f5c, type: 3}
+    itemLongDescription: Sit down
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10023
+    itemType: 9
+    itemDescription: Table Can be Place to Indoor
+    itemSprite: {fileID: 21300000, guid: 20562f58b9b208b44ba82bb27130ec3f, type: 3}
+    itemLongDescription: Table
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10024
+    itemType: 10
+    itemDescription: Yellow Chicken Eggs
+    itemSprite: {fileID: -5445851545866320189, guid: 03f45a1f68dea804a8a7fd4523dcba59,
+      type: 3}
+    itemLongDescription: Yellow Eggs you can broke to the chicken farm
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10025
+    itemType: 10
+    itemDescription: White Chicken Eggs
+    itemSprite: {fileID: 6817062926718649596, guid: 03f45a1f68dea804a8a7fd4523dcba59,
+      type: 3}
+    itemLongDescription: White Eggs you can broke to the chicken farm
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10026
+    itemType: 1
+    itemDescription: 'Yellow Chicken '
+    itemSprite: {fileID: 7595165690907978088, guid: def093defbcb3d142a9b25efb51a4f6f,
+      type: 3}
+    itemLongDescription: Yellow Chicken
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10027
+    itemType: 7
+    itemDescription: Egg Basket
+    itemSprite: {fileID: 21300000, guid: 1aecce37c4091124684c8fd8560317e0, type: 3}
+    itemLongDescription: Egg Basket used to collect Eggs
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10028
+    itemType: 1
+    itemDescription: Oil Lamp
+    itemSprite: {fileID: 21300000, guid: 6bd29ea834d3e8f44a0555edd0fe7c08, type: 3}
+    itemLongDescription: Oil Lamp used to light the rod
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 1
+    canBePickUp: 1
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10029
+    itemType: 0
+    itemDescription: True Eggs
+    itemSprite: {fileID: -5445851545866320189, guid: 03f45a1f68dea804a8a7fd4523dcba59,
+      type: 3}
+    itemLongDescription: True Eggs Seed
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10030
+    itemType: 1
+    itemDescription: True Brown Baby Chick
+    itemSprite: {fileID: 7595165690907978088, guid: def093defbcb3d142a9b25efb51a4f6f,
+      type: 3}
+    itemLongDescription: True Eggs Chicken
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10031
+    itemType: 0
+    itemDescription: The Seed of broccoill
+    itemSprite: {fileID: 21300000, guid: 66ad2b6294e027647b5e5453965ac500, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10032
+    itemType: 0
+    itemDescription: The Seed of white carrot
+    itemSprite: {fileID: 21300000, guid: a7d47452d964867418160d36d06401d3, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10033
+    itemType: 0
+    itemDescription: The Seed of normal carrot
+    itemSprite: {fileID: 21300000, guid: 73475195e5e0aec4096d6f1707801379, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10034
+    itemType: 0
+    itemDescription: The Seed of peper
+    itemSprite: {fileID: 21300000, guid: b01d6493a734d4a48875215e66b98f62, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10035
+    itemType: 0
+    itemDescription: The Seed of sunflower
+    itemSprite: {fileID: 21300000, guid: 817358b3992f01b4f9fe0c376003b1d2, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10036
+    itemType: 0
+    itemDescription: The Seed of tomato
+    itemSprite: {fileID: 21300000, guid: d247f5a42a0c70147889f8751e3c85ca, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10037
+    itemType: 0
+    itemDescription: The Seed of wheat
+    itemSprite: {fileID: 21300000, guid: 2bef49046a5d0ab4cb86a24c6f88b814, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10038
+    itemType: 0
+    itemDescription: The Seed of elephant
+    itemSprite: {fileID: 21300000, guid: b354d5ca6cc55094691becbef443746a, type: 3}
+    itemLongDescription: you can plant to the ground
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemCode: 10039
+    itemType: 1
+    itemDescription: A Brocoil
+    itemSprite: {fileID: 21300000, guid: f32f712bcc15fe043a307aad318dd6d2, type: 3}
+    itemLongDescription: Beatuiful ,can be eaten
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10040
+    itemType: 1
+    itemDescription: A Carrot
+    itemSprite: {fileID: 21300000, guid: 63e064480dea8d9498f2a4f7fe1d641e, type: 3}
+    itemLongDescription: Tranditional Carrot,very normal
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10041
+    itemType: 1
+    itemDescription: A White Carrot
+    itemSprite: {fileID: 21300000, guid: 477189411583dc041b09c2927008b6c4, type: 3}
+    itemLongDescription: Beautiful white Carrot,very exspensive
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10042
+    itemType: 1
+    itemDescription: A Elephant
+    itemSprite: {fileID: 21300000, guid: c7747995e25ff3449aac58e48ea3ac5c, type: 3}
+    itemLongDescription: Very Delicious
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10043
+    itemType: 1
+    itemDescription: A Peper
+    itemSprite: {fileID: 21300000, guid: edb1f5a481cc6cf4595fd17bd7750f50, type: 3}
+    itemLongDescription: Very Spicy
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10044
+    itemType: 1
+    itemDescription: A SunFlower
+    itemSprite: {fileID: 21300000, guid: da648a3de35eead43818229c86ea5efc, type: 3}
+    itemLongDescription: Very Beatuiful
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10045
+    itemType: 1
+    itemDescription: A Tomato
+    itemSprite: {fileID: 21300000, guid: c6b4edd411199b74f9c6bb451b58c59c, type: 3}
+    itemLongDescription: Juicy,Very Juicy
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10046
+    itemType: 1
+    itemDescription: Wheat
+    itemSprite: {fileID: 21300000, guid: 142bca2bdd255e24ea918438fe74c763, type: 3}
+    itemLongDescription: Rice!Rice!
+    itemUseGridRadius: 2
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemCode: 10047
+    itemType: 0
+    itemDescription: Bold Tree Trunk
+    itemSprite: {fileID: -6291963137220350580, guid: dc73ed3abe248a44595b61012d4d2d43,
+      type: 3}
+    itemLongDescription: A Bold Tree Trunk
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10048
+    itemType: 0
+    itemDescription: Sakura Tree Trunk
+    itemSprite: {fileID: -3572825913139756724, guid: 91ea7920b783f504194d534344e8649f,
+      type: 3}
+    itemLongDescription: A Sakura Tree Trunk
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10049
+    itemType: 0
+    itemDescription: Hot Tree Trunk
+    itemSprite: {fileID: 3803872691636280585, guid: 66ef3f84fb3f78b4ea491ac714399162,
+      type: 3}
+    itemLongDescription: A Hot Tree Trunk
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10050
+    itemType: 0
+    itemDescription: Flower Tree Trunk
+    itemSprite: {fileID: 4032340529844362045, guid: a1696f4310de29e4aa3744f275377dd4,
+      type: 3}
+    itemLongDescription: A Hot Tree Trunk
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemCode: 10051
+    itemType: 0
+    itemDescription: Maple Tree Trunk
+    itemSprite: {fileID: 6578071601994029578, guid: fd6d3ffa6d0560045abddd800516eceb,
+      type: 3}
+    itemLongDescription: A MapleTree Trunk
+    itemUseGridRadius: 0
+    itemUseRadius: 0
+    isStartingItem: 0
+    canBePickUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0

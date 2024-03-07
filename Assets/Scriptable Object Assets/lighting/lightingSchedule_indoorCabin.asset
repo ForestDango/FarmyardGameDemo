@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee5a6d02a65e05429b1b0507154dcaf, type: 3}
+  m_Name: lightingSchedule_indoorCabin
+  m_EditorClassIdentifier: 
+  lightingBrtightnessArray:
+  - season: 0
+    hour: 5
+    lightIndensity: 0.85
+  - season: 0
+    hour: 6
+    lightIndensity: 0.95
+  - season: 0
+    hour: 7
+    lightIndensity: 1
+  - season: 0
+    hour: 17
+    lightIndensity: 0.85
+  - season: 0
+    hour: 18
+    lightIndensity: 0.5
+  - season: 0
+    hour: 19
+    lightIndensity: 0.2
+  - season: 1
+    hour: 4
+    lightIndensity: 0.85
+  - season: 1
+    hour: 5
+    lightIndensity: 0.95
+  - season: 1
+    hour: 6
+    lightIndensity: 1
+  - season: 1
+    hour: 21
+    lightIndensity: 0.85
+  - season: 1
+    hour: 22
+    lightIndensity: 0.5
+  - season: 1
+    hour: 23
+    lightIndensity: 0.3
+  - season: 2
+    hour: 5
+    lightIndensity: 0.85
+  - season: 2
+    hour: 6
+    lightIndensity: 0.95
+  - season: 2
+    hour: 7
+    lightIndensity: 1
+  - season: 2
+    hour: 19
+    lightIndensity: 0.85
+  - season: 2
+    hour: 20
+    lightIndensity: 0.5
+  - season: 2
+    hour: 21
+    lightIndensity: 0.25
+  - season: 3
+    hour: 7
+    lightIndensity: 0.85
+  - season: 3
+    hour: 8
+    lightIndensity: 0.95
+  - season: 3
+    hour: 9
+    lightIndensity: 1
+  - season: 3
+    hour: 15
+    lightIndensity: 0.85
+  - season: 3
+    hour: 16
+    lightIndensity: 0.5
+  - season: 3
+    hour: 17
+    lightIndensity: 0.15

@@ -1,0 +1,2086 @@
+fileFormatVersion: 2
+guid: b8a1ee46b6ce11a4d8368beea7dd0051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5447017438696836623
+    second: Farmhouse1_0
+  - first:
+      213: 8624530540903311869
+    second: Farmhouse1_1
+  - first:
+      213: -6162933575431242530
+    second: Farmhouse1_2
+  - first:
+      213: 6708361716510967171
+    second: Farmhouse1_3
+  - first:
+      213: 7934889958971613518
+    second: Farmhouse1_4
+  - first:
+      213: -8017300029186847244
+    second: Farmhouse1_5
+  - first:
+      213: -3539963878546077452
+    second: Farmhouse1_6
+  - first:
+      213: -4264921722673749588
+    second: Farmhouse1_7
+  - first:
+      213: -8969843628315766570
+    second: Farmhouse1_8
+  - first:
+      213: 3665154138378134983
+    second: Farmhouse1_9
+  - first:
+      213: 8154248066985575681
+    second: Farmhouse1_10
+  - first:
+      213: -2352000635375516912
+    second: Farmhouse1_11
+  - first:
+      213: -5723558828464999594
+    second: Farmhouse1_12
+  - first:
+      213: 5699376937107550062
+    second: Farmhouse1_13
+  - first:
+      213: -2989411285378842608
+    second: Farmhouse1_14
+  - first:
+      213: -7664933586089083815
+    second: Farmhouse1_15
+  - first:
+      213: 667442048212781460
+    second: Farmhouse1_16
+  - first:
+      213: -977085498106598723
+    second: Farmhouse1_17
+  - first:
+      213: 4056451762445074269
+    second: Farmhouse1_18
+  - first:
+      213: 4075447271956507769
+    second: Farmhouse1_19
+  - first:
+      213: 4049343582058147229
+    second: Farmhouse1_20
+  - first:
+      213: 7832868148736365580
+    second: Farmhouse1_21
+  - first:
+      213: 7109555171503141768
+    second: Farmhouse1_22
+  - first:
+      213: -7931138795965189215
+    second: Farmhouse1_23
+  - first:
+      213: 8727980769644376175
+    second: Farmhouse1_24
+  - first:
+      213: 9127463800445622325
+    second: Farmhouse1_25
+  - first:
+      213: -305744057882886559
+    second: Farmhouse1_26
+  - first:
+      213: 4751175030717659274
+    second: Farmhouse1_27
+  - first:
+      213: 8593645072811640953
+    second: Farmhouse1_28
+  - first:
+      213: -6505224617158739912
+    second: Farmhouse1_29
+  - first:
+      213: 3036195813375996149
+    second: Farmhouse1_30
+  - first:
+      213: -3783833373681859583
+    second: Farmhouse1_31
+  - first:
+      213: -8583072002217684116
+    second: Farmhouse1_32
+  - first:
+      213: -3838475676277424314
+    second: Farmhouse1_33
+  - first:
+      213: -8315018468700852731
+    second: Farmhouse1_34
+  - first:
+      213: -1764772776998248103
+    second: Farmhouse1_35
+  - first:
+      213: 5572751903201282181
+    second: Farmhouse1_36
+  - first:
+      213: -1748652956333102363
+    second: Farmhouse1_37
+  - first:
+      213: 6492316313434758729
+    second: Farmhouse1_38
+  - first:
+      213: 2023990405101985043
+    second: Farmhouse1_39
+  - first:
+      213: 6290304044864659010
+    second: Farmhouse1_40
+  - first:
+      213: 2353569479101236596
+    second: Farmhouse1_41
+  - first:
+      213: -4760812116369379776
+    second: Farmhouse1_42
+  - first:
+      213: -7843421016134920395
+    second: Farmhouse1_43
+  - first:
+      213: -7253584674300364634
+    second: Farmhouse1_44
+  - first:
+      213: 7487612048858888252
+    second: Farmhouse1_45
+  - first:
+      213: -4351121832057183362
+    second: Farmhouse1_46
+  - first:
+      213: -4059019466259195321
+    second: Farmhouse1_47
+  - first:
+      213: 6622358049857577535
+    second: Farmhouse1_48
+  - first:
+      213: 5388932638159996428
+    second: Farmhouse1_49
+  - first:
+      213: -7249137921277502441
+    second: Farmhouse1_50
+  - first:
+      213: -3720167506537399409
+    second: Farmhouse1_51
+  - first:
+      213: 7216187874165955149
+    second: Farmhouse1_52
+  - first:
+      213: 3260482827011528953
+    second: Farmhouse1_53
+  - first:
+      213: 3507966435909736506
+    second: Farmhouse1_54
+  - first:
+      213: 1588571692619773349
+    second: Farmhouse1_55
+  - first:
+      213: -2851425535276871292
+    second: Farmhouse1_56
+  - first:
+      213: 2073221590715218930
+    second: Farmhouse1_57
+  - first:
+      213: -3750960586044750967
+    second: Farmhouse1_58
+  - first:
+      213: -4572857074225040708
+    second: Farmhouse1_59
+  - first:
+      213: -3006170140622992744
+    second: Farmhouse1_60
+  - first:
+      213: -6619973085992129391
+    second: Farmhouse1_61
+  - first:
+      213: -293329029370893564
+    second: Farmhouse1_62
+  - first:
+      213: -6366710677090536586
+    second: Farmhouse1_63
+  - first:
+      213: 7465395923516520857
+    second: Farmhouse1_64
+  - first:
+      213: -5463863362138907024
+    second: Farmhouse1_65
+  - first:
+      213: -5434584905858920990
+    second: Farmhouse1_66
+  - first:
+      213: -415912100562211290
+    second: Farmhouse1_67
+  - first:
+      213: 1611795016038931475
+    second: Farmhouse1_68
+  - first:
+      213: 8421731285750574200
+    second: Farmhouse1_69
+  - first:
+      213: -118444223845287146
+    second: Farmhouse1_70
+  - first:
+      213: 4616610181116344921
+    second: Farmhouse1_71
+  - first:
+      213: -1733987980305328736
+    second: Farmhouse1_72
+  - first:
+      213: -4068373843034722657
+    second: Farmhouse1_73
+  - first:
+      213: 3430545489028532383
+    second: Farmhouse1_74
+  - first:
+      213: -6347636749006352623
+    second: Farmhouse1_75
+  - first:
+      213: -7132210844122627688
+    second: Farmhouse1_76
+  - first:
+      213: -6414855782510244281
+    second: Farmhouse1_77
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Farmhouse1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080357c0e283db4299c25422340644a
+      internalID: -5447017438696836623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e36d55e4c16e74885140c2ceb0fdb1
+      internalID: 8624530540903311869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866f277e6fb9014fbbd6b479f87f5aa
+      internalID: -6162933575431242530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce10d8d87dfb08449fdcdad9f7992c3
+      internalID: 6708361716510967171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69d43f49ba98e4286271cc9a7e36df
+      internalID: 7934889958971613518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42bab84401f12429095deb8c35ae46
+      internalID: -8017300029186847244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a267f681227a3b4da28cce1a9fd8c70
+      internalID: -3539963878546077452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57131d4ef560d5c44b4114f3eda00db2
+      internalID: -4264921722673749588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db7d9b82546674d921edf78c652003
+      internalID: -8969843628315766570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2aaf749db0ba4291f56f3dbacca79
+      internalID: 3665154138378134983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f7cb85b6b17094cbd82fd7ce53d024
+      internalID: 8154248066985575681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a304f0a628dc82a4f9d3394c8bf6dd3d
+      internalID: -2352000635375516912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cdd98ddf7bf3b448e221d6ef5e5dfa
+      internalID: -5723558828464999594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cdacd429582584f9826adb9441d41e
+      internalID: 5699376937107550062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3b8beeea985c44ac6d7c4acc6526a
+      internalID: -2989411285378842608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4941407964a1754da395a64d5dc8506
+      internalID: -7664933586089083815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2560c9a58f13d814c8ef29641d2e2d0d
+      internalID: 667442048212781460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4f26ed03de2145aa27226ef6df850
+      internalID: -977085498106598723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92baf1291a21a048a14c7d2b35a2f24
+      internalID: 4056451762445074269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642f4fdb3245e65498d6d7d3acd8701f
+      internalID: 4075447271956507769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84078a02da713ac42b5d8b63203392d0
+      internalID: 4049343582058147229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4be65f9d8fe50419469f81f4cccc7a
+      internalID: 7832868148736365580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe130888597c9084794ef588f2085d4f
+      internalID: 7109555171503141768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac18978c2d29fc6449253c6d9af05d63
+      internalID: -7931138795965189215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5f93b3b03e33945a859ff058ebfc77
+      internalID: 8727980769644376175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa31fbd8f1383248b52e161537075ce
+      internalID: 9127463800445622325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb7089c251b524a831a5f98a709ba3
+      internalID: -305744057882886559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6590d87e15ff44aa319876735b832
+      internalID: 4751175030717659274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b17fe1085875248ab9d6fa9b15fa74
+      internalID: 8593645072811640953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d019ce10b670c4fbb7c089c6ae5e96
+      internalID: -6505224617158739912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f02492a619beb42acb99345b9ffd95
+      internalID: 3036195813375996149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1de9ad915af04e805c4fc9b9b7857
+      internalID: -3783833373681859583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1313470aab2fb34a8bdc6d4f942efd4
+      internalID: -8583072002217684116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6620027b83dab4ba0224a1ae6e0b10
+      internalID: -3838475676277424314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059c8ab117e53e4088188f305ee24f8
+      internalID: -8315018468700852731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3743ace2d89704987c5e9790a66d01
+      internalID: -1764772776998248103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ed37c6f41b5045a408acf5bc5ee0d
+      internalID: 5572751903201282181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a42ad85623d974583dcc00a2d743a1
+      internalID: -1748652956333102363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c1cdc428c2c947b680de7482cb1a2
+      internalID: 6492316313434758729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a413cb38289b264088d9c1f06c6efb9
+      internalID: 2023990405101985043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffaf67b8e67f6b4aa1f2b2d386d92b3
+      internalID: 6290304044864659010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3958d83eebd40fd4ca0e2c1cadffcb38
+      internalID: 2353569479101236596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0bad01b66cbb94bb24038a14967c06
+      internalID: -4760812116369379776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bd2f87c6ee4dd4aa8e860ca511a7dd
+      internalID: -7843421016134920395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82b797975b93974f9107051d25f31f7
+      internalID: -7253584674300364634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44d54ae77cbbc4c80f1f4bb4a472b1
+      internalID: 7487612048858888252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a0f6fb2f0faf46ad0f01fce46ad0a
+      internalID: -4351121832057183362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de5966fc21e0b478d63d3bbc357513
+      internalID: -4059019466259195321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d237034d6bea70499fd4bed0655cc33
+      internalID: 6622358049857577535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfa50ababe3794cada44af59c7523c
+      internalID: 5388932638159996428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154fb2f0096bcc42bc0701416aac30c
+      internalID: -7249137921277502441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263b5a118a9f37946b2de0a3e2afd422
+      internalID: -3720167506537399409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30121329fd38a3342bcfee88c779c782
+      internalID: 7216187874165955149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859a7a3ff169e247b93896d2451a1c8
+      internalID: 3260482827011528953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202fd6da2f35ac44bd684c40d8f1972
+      internalID: 3507966435909736506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b112c11ade1c39b448b01352142891d5
+      internalID: 1588571692619773349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81093160f0b2349884cc2435c74914
+      internalID: -2851425535276871292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc345cfe253109548b462908409b2aaa
+      internalID: 2073221590715218930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57e0b8deaf76a46917fa68f245877b
+      internalID: -3750960586044750967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce3c3a90bcf1247a135b24b713c667
+      internalID: -4572857074225040708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289991097a063f044b95b78896c83c00
+      internalID: -3006170140622992744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7fa47b8ab88d8458fb99d3c498e9b5
+      internalID: -6619973085992129391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661fbd0a0892d944b39eb1cb5bdc838
+      internalID: -293329029370893564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8ff2569e2834439f08d40f5567a99
+      internalID: -6366710677090536586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3be25f30999ae49b1578333b46f9f5
+      internalID: 7465395923516520857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c63590ec56f34b92ab48582aea887
+      internalID: -5463863362138907024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779db658b7a9f84a853a8ce9d2db69a
+      internalID: -5434584905858920990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5346cc6383caa04ebbc977b815d4553
+      internalID: -415912100562211290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd2ca50a7e16f48b1f007f83f5ba21
+      internalID: 1611795016038931475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9479b1df91ac4f8da17b7cfb037be
+      internalID: 8421731285750574200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd696e775fd84264e968f94d893e792b
+      internalID: -118444223845287146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fcf44a9ebdd54794b1daa2170991c
+      internalID: 4616610181116344921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d5042cd12c2344ac8f3c935a3aa7f
+      internalID: -1733987980305328736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e344cee1a941e7418e7462bfecf7ca8
+      internalID: -4068373843034722657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa40ec05bc6544e8805069b9cdbb34
+      internalID: 3430545489028532383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed4e6c1e3b97c48b095b1fb532f446
+      internalID: -6347636749006352623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045bfba6db52a14eba7c4ce8f81566f
+      internalID: -7132210844122627688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Farmhouse1_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5667492577ac3e42929ccdcbbd7a5e5
+      internalID: -6414855782510244281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c3f9455ccea2b14b99730c06848db48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Farmhouse1_0: -5447017438696836623
+      Farmhouse1_1: 8624530540903311869
+      Farmhouse1_10: 8154248066985575681
+      Farmhouse1_11: -2352000635375516912
+      Farmhouse1_12: -5723558828464999594
+      Farmhouse1_13: 5699376937107550062
+      Farmhouse1_14: -2989411285378842608
+      Farmhouse1_15: -7664933586089083815
+      Farmhouse1_16: 667442048212781460
+      Farmhouse1_17: -977085498106598723
+      Farmhouse1_18: 4056451762445074269
+      Farmhouse1_19: 4075447271956507769
+      Farmhouse1_2: -6162933575431242530
+      Farmhouse1_20: 4049343582058147229
+      Farmhouse1_21: 7832868148736365580
+      Farmhouse1_22: 7109555171503141768
+      Farmhouse1_23: -7931138795965189215
+      Farmhouse1_24: 8727980769644376175
+      Farmhouse1_25: 9127463800445622325
+      Farmhouse1_26: -305744057882886559
+      Farmhouse1_27: 4751175030717659274
+      Farmhouse1_28: 8593645072811640953
+      Farmhouse1_29: -6505224617158739912
+      Farmhouse1_3: 6708361716510967171
+      Farmhouse1_30: 3036195813375996149
+      Farmhouse1_31: -3783833373681859583
+      Farmhouse1_32: -8583072002217684116
+      Farmhouse1_33: -3838475676277424314
+      Farmhouse1_34: -8315018468700852731
+      Farmhouse1_35: -1764772776998248103
+      Farmhouse1_36: 5572751903201282181
+      Farmhouse1_37: -1748652956333102363
+      Farmhouse1_38: 6492316313434758729
+      Farmhouse1_39: 2023990405101985043
+      Farmhouse1_4: 7934889958971613518
+      Farmhouse1_40: 6290304044864659010
+      Farmhouse1_41: 2353569479101236596
+      Farmhouse1_42: -4760812116369379776
+      Farmhouse1_43: -7843421016134920395
+      Farmhouse1_44: -7253584674300364634
+      Farmhouse1_45: 7487612048858888252
+      Farmhouse1_46: -4351121832057183362
+      Farmhouse1_47: -4059019466259195321
+      Farmhouse1_48: 6622358049857577535
+      Farmhouse1_49: 5388932638159996428
+      Farmhouse1_5: -8017300029186847244
+      Farmhouse1_50: -7249137921277502441
+      Farmhouse1_51: -3720167506537399409
+      Farmhouse1_52: 7216187874165955149
+      Farmhouse1_53: 3260482827011528953
+      Farmhouse1_54: 3507966435909736506
+      Farmhouse1_55: 1588571692619773349
+      Farmhouse1_56: -2851425535276871292
+      Farmhouse1_57: 2073221590715218930
+      Farmhouse1_58: -3750960586044750967
+      Farmhouse1_59: -4572857074225040708
+      Farmhouse1_6: -3539963878546077452
+      Farmhouse1_60: -3006170140622992744
+      Farmhouse1_61: -6619973085992129391
+      Farmhouse1_62: -293329029370893564
+      Farmhouse1_63: -6366710677090536586
+      Farmhouse1_64: 7465395923516520857
+      Farmhouse1_65: -5463863362138907024
+      Farmhouse1_66: -5434584905858920990
+      Farmhouse1_67: -415912100562211290
+      Farmhouse1_68: 1611795016038931475
+      Farmhouse1_69: 8421731285750574200
+      Farmhouse1_7: -4264921722673749588
+      Farmhouse1_70: -118444223845287146
+      Farmhouse1_71: 4616610181116344921
+      Farmhouse1_72: -1733987980305328736
+      Farmhouse1_73: -4068373843034722657
+      Farmhouse1_74: 3430545489028532383
+      Farmhouse1_75: -6347636749006352623
+      Farmhouse1_76: -7132210844122627688
+      Farmhouse1_77: -6414855782510244281
+      Farmhouse1_8: -8969843628315766570
+      Farmhouse1_9: 3665154138378134983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae7d748924ba87a4faf4b21eb5c87f15, type: 3}
+  m_Name: so_EggsDetailsList
+  m_EditorClassIdentifier: 
+  eggDetailsList:
+  - eggItemCode: 10024
+    growthDays: 0000000001000000020000000300000004000000
+    growthPrefab:
+    - {fileID: 7373131198520973349, guid: 821d30c396a4c2a43af5a3ef30d1a1e4, type: 3}
+    - {fileID: 7373131198520973349, guid: 821d30c396a4c2a43af5a3ef30d1a1e4, type: 3}
+    - {fileID: 7373131198520973349, guid: 821d30c396a4c2a43af5a3ef30d1a1e4, type: 3}
+    - {fileID: 7373131198520973349, guid: 821d30c396a4c2a43af5a3ef30d1a1e4, type: 3}
+    - {fileID: 7373131198520973349, guid: 821d30c396a4c2a43af5a3ef30d1a1e4, type: 3}
+    growthSprite:
+    - {fileID: -5445851545866320189, guid: 03f45a1f68dea804a8a7fd4523dcba59, type: 3}
+    - {fileID: -2309870210268250023, guid: 03f45a1f68dea804a8a7fd4523dcba59, type: 3}
+    - {fileID: 2188308030012933805, guid: 03f45a1f68dea804a8a7fd4523dcba59, type: 3}
+    - {fileID: 6817062926718649596, guid: 03f45a1f68dea804a8a7fd4523dcba59, type: 3}
+    - {fileID: -2309870210268250023, guid: 03f45a1f68dea804a8a7fd4523dcba59, type: 3}
+    seasons: 0000000001000000
+    harvestedSprite: {fileID: 7595165690907978088, guid: def093defbcb3d142a9b25efb51a4f6f, type: 3}
+    harvestedTransformItemCode: 0
+    hideEggBeforeHarvestAnimation: 1
+    disableEggColliderBeforeHarvsetAnimation: 0
+    isHarvestAnimation: 1
+    isHarvestActionEffect: 0
+    spawnEggProduceAtPlayerPosition: 1
+    harvestActionEffect: 5
+    harvsestSound: 160
+    harvestToolItemCode: 2b270000
+    requiredHarvestActions: 01000000
+    eggsProducedItemCode: 2a270000
+    eggsProducedMinQuantity: 01000000
+    eggsProducedMaxQuantity: 01000000
+    daysToRegrow: 0

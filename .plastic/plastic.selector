@@ -1,0 +1,4 @@
+repository "GameMatch07@ssl://dango12345@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
